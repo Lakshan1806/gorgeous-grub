@@ -26,7 +26,7 @@ There are many great community made GRUB themes to spice up your bootloader befo
 
 >If you like a theme, please do consider giving it a rating on Pling or starring its repo on Github. It's very rare for anyone to rate on Pling and that's half the reason good themes are so hard to find. Plus, it always feels nice to see that people are enjoying the product you created.
 
->⚠ NOTE - If your system is set up with Secureboot, this can cause custom fonts to fail to apply. [This forum post](https://bbs.archlinux.org/viewtopic.php?pid=2103579#p2103579) details how you can sign your font files to allow them to be displayed again.
+### ⚠ If your system is set up with Secureboot, this can cause custom fonts to fail to apply or not display entirely. [This forum post](https://bbs.archlinux.org/viewtopic.php?pid=2103579#p2103579) details how you can sign your font files to allow them to be displayed again. ⚠
 
 |    |    |    |
 |:-------:|:-------:|:---------:|
