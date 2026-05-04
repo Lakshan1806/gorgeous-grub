@@ -90,6 +90,6 @@ There are many great community made GRUB themes to spice up your bootloader befo
 |<img src="/Images/LiquidGRUB.png" width="247">|<img src="Images/Kepler_186f.png" width="247" alt="Kepler 186f - A GRUB theme inspired by the artistic impression of the possible habitable planet orbiting the Kepler star">|<img src="Images/FortGrub.gif" width="247">|
 |**[LiquidGlass](https://github.com/Purp1eDuck2008/Liquid-GRUB)**|[**Kepler 186f**](https://github.com/rafspiny/grub_themes)| [**FortGrub (Highly Customizable!)**](https://github.com/PedroMMarinho/fortgrub-theme)|
 |    |    |    |
-|<img src="/Images/Placeholder.png" width="247">|<img src="Images/Placeholder.png" width="247">|<img src="Images/Placeholder.png" width="247">|
-|-|-|-|
+|<img src="/Images/GrubOfTsushima.gif" width="247">|<img src="Images/Placeholder.png" width="247">|<img src="Images/Placeholder.png" width="247">|
+|[**Grub of Tsushima**](https://github.com/ivanimmanuel-dev/grub-of-tsushima)|-|-|
 |    |    |    |
