@@ -1,5 +1,5 @@
 # 🚀 Intro
-**⭐ Thank you for 3K Stars! <3**
+**⭐ Thank you for ~~3K~~ 5K Stars! <3 <3**
 
 There are many great community made GRUB themes to spice up your bootloader before booting into your system proper. Unfortunately, they're scattered across multiple sites and it can be difficult to find good ones. As another user told me, the majority of themes on Pling (the largest host of GRUB themes currently) are fairly low effort and can be boring to trawl through. Hence, I decided to put together this page to bring attention to some decent themes I've found around the internet over time.
 
