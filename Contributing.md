@@ -1,5 +1,5 @@
 # 👍 Contributing
-Contributions are very welcome, either of themes you've created yourself or just ones you've discovered online. Just open a Pull Request and it to the Table with a preview image and link to the page where the theme is hosted.  
+Contributions are very welcome, either of themes you've created yourself or just ones you've discovered online. Just open a Pull Request and add it to the Table with a preview image and link to the page where the theme is hosted.  
 If you're not sure how, just open an Issue with the link and preview image included, and I'll add it myself when I get the chance. 
 
 Bear in mind, there are a few rules on what will be accepted:
